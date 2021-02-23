@@ -5,9 +5,9 @@ sections:
     type: section_hero
     image_alt: App preview
     title: Aspire to learn
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      SBS offers a wide variety of courses for nominal prices to keep learning
+      going.
     actions:
       - label: Learn More
         url: /features
