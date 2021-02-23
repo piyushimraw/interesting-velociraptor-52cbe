@@ -18,7 +18,7 @@ sections:
     title: Courses
     features:
       - title: Certification in IT
-        image: images/feature1.png
+        image: images/11.jpg
         image_alt: App preview on a phone and tablet
         content: |
           Here you will learn
