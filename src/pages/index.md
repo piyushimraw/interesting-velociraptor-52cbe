@@ -53,8 +53,7 @@ sections:
     background: white
     title: Testimonials
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      Listen what our students say about us.
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
@@ -80,17 +79,17 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: SBS Foundation
+  description: Aspire to learn
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: SBS Foundation
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Aspire to learn
       keyName: property
     - name: 'og:image'
       value: images/hero.png
@@ -99,9 +98,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: SBS Foundation
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: Aspire to learn
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true

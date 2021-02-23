@@ -1,51 +1,45 @@
 ---
-title: Features
+title: Courses
 sections:
-  - section_id: features
+  - section_id: Courses
     type: section_content
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: The Best Features of Your Services
+    title: Basic Certification in IT
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      We offer best course for Basic Certication of IT Where You will learn.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      * Basics of Computer system.
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      * MS Office.
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      * Internet Browsing.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Along with that basic career assistance and personality development is also being provided.
     actions:
       - label: Free Trial
         url: /signup
         style: primary
-      - label: View Demo
-        url: '#'
-        style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Shape you future.
+    subtitle: Click on Get Started to Enhance your skills.
     actions:
       - label: Get Started
         url: '#'
         style: secondary
 seo:
-  title: Features
-  description: This is the features page
+  title: Courses in SBS Foundation
+  description: Courses provided in SBS Foundation page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Features
+      value: Courses in SBS Foundation
       keyName: property
     - name: 'og:description'
       value: This is the features page
@@ -57,7 +51,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Features
+      value: Courses in SBS Foundation
     - name: 'twitter:description'
       value: This is the features page
     - name: 'twitter:image'
