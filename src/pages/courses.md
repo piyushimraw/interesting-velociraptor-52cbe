@@ -8,7 +8,7 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Basic Certification in IT
     content: >-
-      We offer best course for Basic Certication of IT Where You will learn.
+      We offer best course for Basic certification of IT Where You will learn.
 
 
       * Basics of Computer system.
