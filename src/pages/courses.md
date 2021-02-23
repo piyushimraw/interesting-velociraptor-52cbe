@@ -25,7 +25,7 @@ sections:
         style: primary
   - section_id: call-to-action
     type: section_cta
-    title: Shape you future.
+    title: Shape your future.
     subtitle: Click on Get Started to Enhance your skills.
     actions:
       - label: Get Started
