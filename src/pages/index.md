@@ -38,10 +38,9 @@ sections:
       - title: Advanced Certification in IT
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: |+
+          Basics of IT plus much more
+
         actions:
           - label: Learn More
             url: /features
