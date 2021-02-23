@@ -48,6 +48,12 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+      - title: Cool Feature of Your Services
+        image_alt: App user profile preview
+        content: >-
+          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
+          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
+          amet nec urna.
         actions:
           - label: Learn More
             url: /features
