@@ -17,7 +17,7 @@ sections:
     background: gray
     title: Courses
     features:
-      - title: The Best Feature of Your Services
+      - title: Certification in IT
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
