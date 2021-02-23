@@ -2,7 +2,7 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/WhatsApp Image 2021-01-22 at 5.23.12 PM.jpeg",
+        "logo_img": "images/sbs-logo.jpeg",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
@@ -37,10 +37,10 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/sbs-logo.jpeg",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "SBS Foundation"
             },
             {
                 "type": "footer_nav",
@@ -118,19 +118,9 @@
         ],
         "has_nav": true,
         "nav_links": [
-            {
-                "label": "Terms of Service",
-                "url": "/terms-of-service",
-                "style": "link"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
-            }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
+        "content": "&copy; SBS. All rights reserved."
     },
-    "title": "Azimuth",
-    "domain": "https://interesting-velociraptor-52cbe.netlify.app"
+    "title": "SBS Foundation",
+    "domain": "https://sbsbharat.com"
 }

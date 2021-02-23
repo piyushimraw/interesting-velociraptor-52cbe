@@ -23,7 +23,7 @@
 }
 
 .footer-top {
-  border-bottom: 1px solid rgba($gray-600,.4);
+  border-bottom: 1px solid rgba($gray-600, 0.4);
   padding-bottom: 1.11111em;
   padding-top: 3.33333em;
 }
@@ -43,6 +43,10 @@
 .widget-image {
   display: block;
   margin-bottom: 0.75em;
+
+  img {
+    max-width: 120px;
+  }
 }
 
 .widget-title {
