@@ -36,7 +36,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Advanced Certification in IT
-        image: images/feature2.png
+        image: images/12_thumb.jpg
         image_alt: App users welcoming a new member
         content: |+
           Basics of IT plus much more
