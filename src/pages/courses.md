@@ -4,7 +4,7 @@ sections:
   - section_id: Courses
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/11.jpg
     image_alt: App preview on a phone and tablet
     title: Basic Certification in IT
     content: >-
