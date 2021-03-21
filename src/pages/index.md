@@ -76,6 +76,11 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
+
+  - section_id: call-to-action
+    type: section_cta
+    title: For more details
+    subtitle: Please contact Vishal Gauraw on 9199988270 or drop mail on vishalgauraw0786@gmail.com. In addition to this you can contact Kumari Amba on drop a mail at Amba.nidhi@gmail.com.
 seo:
   title: SBS Foundation
   description: Aspire to learn
