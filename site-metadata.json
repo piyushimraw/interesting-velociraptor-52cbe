@@ -21,7 +21,11 @@
                 "url": "/pricing",
                 "style": "link"
             },
-
+            {
+                "label": "View Certificate",
+                "url": "https://c.sbsbharat.com/",
+                "style": "secondary"
+            },
             {
                 "label": "Sign Up",
                 "url": "/signup",
